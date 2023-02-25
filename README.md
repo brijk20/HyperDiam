@@ -52,13 +52,13 @@ The policies for the diamond supply chain network are as follows:
 • Better Customer Confidence: With the increased transparency and traceability provided by DiamondSupplyChain, customers can have greater confidence in the diamonds they purchase. They can be assured that the diamonds are ethically sourced, have undergone proper certification, and have been tracked throughout the supply chain, reducing the risk of purchasing a conflict diamond.
 
 # Result Screenshots:
-![HyperDiam Landing Page screenshot](ScreenShot/Landing Page.jpeg)
-![Add Diamonds screenshot](ScreenShot/Add Diamonds.jpeg)
+![HyperDiam Landing Page screenshot](ScreenShot/LandingPage.jpeg)
+![Add Diamonds screenshot](ScreenShot/AddDiamonds.jpeg)
 ![Customer screenshot](ScreenShot/Customer.jpeg)
 ![Details screenshot](ScreenShot/Details.jpeg)
-![Edit Diamond screenshot](ScreenShot/Edit Diamond.jpeg)
+![Edit Diamond screenshot](ScreenShot/EditDiamond.jpeg)
 ![List screenshot](ScreenShot/List.jpeg)
-![Mine Diamond screenshot](ScreenShot/Mine Diamond.jpeg)
+![Mine Diamond screenshot](ScreenShot/MineDiamond.jpeg)
 ![Retailer screenshot](ScreenShot/Retailer.jpeg)
 
 
